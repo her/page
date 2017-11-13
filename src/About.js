@@ -5,10 +5,14 @@ class About extends Component {
     return (
       <div>
         <p>
-          I live and work in Seattle, write code, design stuff and spend
-          a lot of time on my computer. <span role="img" aria-label="hot beverage">☕️</span> 
-          <span role="img" aria-label="evergreen tree">🌲</span> <span role="img" aria-label="cloud with rain">🌧</span>
-          <span role="img" aria-label="woman technologist">👩‍💻 </span> <span role="img" aria-label="Milky Way">🌌</span>
+          I live in Seattle and design stuff. 
+        </p>
+        <p>
+          <span role="img" aria-label="hot beverage">☕️</span> 
+          <span role="img" aria-label="evergreen tree">🌲</span> 
+          <span role="img" aria-label="cloud with rain">🌧</span>
+          <span role="img" aria-label="woman technologist">👩‍💻 </span> 
+          <span role="img" aria-label="Milky Way">🌌</span>
         </p>
       </div>
     );
