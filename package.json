@@ -2,6 +2,7 @@
   "name": "berkley",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://her.github.io/site",
   "dependencies": {
     "react": "^16.1.0",
     "react-dom": "^16.1.0",
